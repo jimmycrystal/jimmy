@@ -1,6 +1,1 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vendanski&label=jimmys&base=3029&color=5f0f40">
-</p>
-<p align="center">
-  <gif src="[https://files.catbox.moe/ewzmkr.gif]"style="width: 28%; height: auto;" />
-</p>
+*<p align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bi2xdm347wwuxujj7pghbx7sci&cover_image=true&theme=novatorem&show_offline=true&background_color=220202&interchange=true&profanity=false&bar_color=d1001f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bi2xdm347wwuxujj7pghbx7sci&redirect=true)*
